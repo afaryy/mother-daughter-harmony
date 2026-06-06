@@ -1,0 +1,6 @@
+{
+  "name": "母女和睦手账 & 情绪降温舱 (Mother-Daughter Harmony Hub)",
+  "description": "An AI-powered communication coach, electronic treaty generator, and shared health & wellness journal designed to turn day-to-day tension and differences into cooperative, warm, and fun memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,2 +1,20 @@
-# mother-daughter-harmony
-Mother-Daughter Harmony Hub is an empathy-driven co-wellness platform designed to dissolve subtle generational friction and strengthen familial bonds through supportive, tech-enabled reflective interactions. 
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/6789239a-f63b-416e-8b32-7e4a05464af2
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
